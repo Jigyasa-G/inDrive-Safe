@@ -1,3 +1,4 @@
+Demo : [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/haZXtboUWHc))
 # Installation Instructions
 
 **Install Node.js:** Make sure you have Node.js installed on your system.
