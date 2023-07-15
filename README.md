@@ -1,5 +1,3 @@
-Demo : 
-<video src='https://youtu.be/haZXtboUWHc' width=180/>
 # Installation Instructions
 
 **Install Node.js:** Make sure you have Node.js installed on your system.
